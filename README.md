@@ -1,4 +1,4 @@
-# Bipartite Graph Generator and Critical Set Finder
+# Msc project of Power Li
 
 ## Introduction
 Welcome to the Msc Project. This tool is designed to create random bipartite graphs based on user inputs and then determine the critical set for the generated graph.
